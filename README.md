@@ -29,7 +29,7 @@
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
 
 # สายงาน Security
-* [https://www.facebook.com/groups/2600Thailand](https://www.facebook.com/groups/2600Thailand)
+* [2600 Thailand](https://www.facebook.com/groups/2600Thailand)
 * [OWASP Thailand Chapter](https://www.facebook.com/groups/owaspthailand)
  
 
