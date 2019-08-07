@@ -21,7 +21,7 @@
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
-* [Thailand's Machine Learning Research] (https://www.facebook.com/groups/164204783609455/)
+* [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455/)
 
 # สายงาน System Admin, Network, IT suport
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
