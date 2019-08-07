@@ -33,10 +33,10 @@
 
 # หางาน
 
-* [หางาน สมัครงาน IT ไอที คอมพิวเตอร์] https://www.facebook.com/groups/238251843552486/
-* [IT Jobs in Thailand] https://www.facebook.com/groups/ITOutsourceThailand/
-* [Jobs for Thai Programmers] https://www.facebook.com/groups/647718825333067/
-* [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ] https://www.facebook.com/groups/designil.freelance/
+* [หางาน สมัครงาน IT ไอที คอมพิวเตอร์](https://www.facebook.com/groups/238251843552486/)
+* [IT Jobs in Thailand](https://www.facebook.com/groups/ITOutsourceThailand/)
+* [Jobs for Thai Programmers](https://www.facebook.com/groups/647718825333067/)
+* [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ](https://www.facebook.com/groups/designil.freelance/)
 
 # ที่มา
 [รายชื่อกลุ่มต่างๆ ด้านไอที](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
