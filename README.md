@@ -20,6 +20,7 @@
 * [สมาคมโปรแกรมเมอร์ไทย - กลุ่มรวมวงการโปรแกรมเมอร์ใหญ่ที่สุดในไทย](https://www.facebook.com/groups/ThaiPGAssociateSociety/)
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
+* [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
@@ -40,5 +41,4 @@
 * [Jobs for Thai Programmers](https://www.facebook.com/groups/647718825333067/)
 * [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ](https://www.facebook.com/groups/designil.freelance/)
 
-# ที่มา
-[รายชื่อกลุ่มต่างๆ ด้านไอที](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
+
