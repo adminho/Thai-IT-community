@@ -1,6 +1,6 @@
 # Thai-IT-community
 
-เนื่องจากที่ผานมาได้เกิดกลุ่มบน Facebook ด้านไอทีของประเทศไทยมากมาย เป็นแหล่งเหล่าคนในวงการไอที เอาไว้ใช้ปรึกษา พร้อมทั้งแลกเปลี่ยนข้อมูลซึ่งกันและกัน ผมจึงได้รวบรวมกลุ่มไอทีพร้อมทั้งแฟนเพจไว้ที่นี้นะจุดเดียว ใครมีแนะนำอะไรก็ทักมาได้ที่[แฟนเพจ](https://www.facebook.com/programmerthai/) หรือจะ submit ผ่าน github ก็ยินดี ผมหวังว่ามันจะเป็นประโยชน์ต่อสังคมไทยครับ 
+เนื่องจากที่ผานมาได้เกิดกลุ่มบน Facebook ด้านไอทีของประเทศไทยมากมาย เป็นแหล่งเหล่าคนในวงการไอที เอาไว้ใช้ปรึกษา พร้อมทั้งแลกเปลี่ยนข้อมูลซึ่งกันและกัน ผมจึงได้รวบรวมกลุ่มไอทีพร้อมทั้งแฟนเพจไว้ที่นี้นะจุดเดียว ใครมีแนะนำอะไรก็ทักมาได้ที่[แฟนเพจ](https://www.facebook.com/programmerthai/) หรือจะ submit ผ่าน github ก็ยินดี ผมหวังว่ามันจะเป็นประโยชน์ต่อสังคมไทยครับ (จะพยายามให้เนื้อหาอัพเดตเวลาเกิดกลุ่มต่างๆ ขึ้นมา)
  1. สำหรับแฟนเพจ ขอให้มีสมาชิก 5,000 คนขึ้นไปนะครับ 
  2. group ขอให้มีสมาชิกสัก 1,000 คนขึ้นไปนะครับ
 
@@ -21,6 +21,7 @@
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
+* [https://www.facebook.com/groups/2355598151437216/](https://www.facebook.com/groups/2355598151437216/)
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
