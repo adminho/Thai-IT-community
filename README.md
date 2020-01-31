@@ -8,8 +8,8 @@
 # สารบัญ
  
 * :fire: [สายงานโปรแกรมเมอร์](#เสายงานโปรแกรมเมอร์)
-* :fire: [Embedded System, IoT](#เรียนออนไลน์ของภาครัฐ)
-* :fire: [สายงาน AI, Machine learning, Deep learning, Data Science](##สายงาน-ai-machine-learning-deep-learning-data-science)
+* :fire: [Embedded System, IoT](#สายงาน-embedded-system-iot)
+* :fire: [สายงาน AI, Machine learning, Deep learning, Data Science](#สายงาน-ai-machine-learning-deep-learning-data-science)
 * :fire: [สายงาน System Admin, Network, IT suport](#สายงาน-system-admin-network-it-suport)
 * :fire: [สายงาน Security](#สายงาน-security)
 * :fire: [หางาน, Freelance](#หางาน)
@@ -23,7 +23,7 @@
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
 * [ไทย PHP - กลุ่มนักพัฒนา PHP ของคนไทย](https://www.facebook.com/groups/134855003271201/)
 * [Thai Game Developers Corner (TGDC) - สำหรับผู้สนใจพัฒนาเกม หรือนักพัฒนาเกมมืออาชีพ](https://www.facebook.com/groups/thaigamepad/)
-* [iOS Developer Thailand - กลุ่มพัฒนา iOS ในประเทศไทย] (https://www.facebook.com/groups/iosthailand/)
+* [iOS Developer Thailand - กลุ่มพัฒนา iOS ในประเทศไทย](https://www.facebook.com/groups/iosthailand/)
 * [Python-Thailand - กลุ่มพัฒนา Python ที่ใหญ่ที่สุด](https://www.facebook.com/groups/admin.py.dev/)
 * [Node.js Thailand - กลุ่มพันษ Node.js](https://www.facebook.com/groups/node.th/)
 * [THJUG - กลุ่มพัฒนา Java](https://www.facebook.com/groups/thjug/)
@@ -37,7 +37,7 @@
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
-* [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455
+* [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455)
 * [Thailand Deep Learning](https://www.facebook.com/groups/988867541235062/)
 
 # สายงาน System Admin, Network, IT suport
