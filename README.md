@@ -28,6 +28,7 @@
 * [Node.js Thailand - กลุ่มพันษ Node.js](https://www.facebook.com/groups/node.th/)
 * [THJUG - กลุ่มพัฒนา Java](https://www.facebook.com/groups/thjug/)
 * [Thailand Kotlin Developer - กลุ่มพันฒนา Kotlin](https://www.facebook.com/groups/872547279487598/)
+* [GreatFriends.Biz - .NET Developer Community in Thailand](https://www.facebook.com/groups/greatfriends.biz/about/)
 * [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
 
 # สายงาน embedded System, IoT
