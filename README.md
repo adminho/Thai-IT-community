@@ -21,8 +21,9 @@
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
-* [https://www.facebook.com/groups/2355598151437216/](https://www.facebook.com/groups/2355598151437216/)
-
+* [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
+* [ไทย PHP - กลุ่มนักพัฒนา PHP ของคนไทย](https://www.facebook.com/groups/134855003271201/)
+* [Thai Game Developers Corner (TGDC) - สำหรับผู้สนใจพัฒนาเกม หรือนักพัฒนาเกมมืออาชีพ](https://www.facebook.com/groups/thaigamepad/)
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
 * [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455/)
