@@ -1,7 +1,7 @@
 # Thai-IT-community
 
 เนื่องจากที่ผานมาได้เกิดกลุ่มบน Facebook ด้านไอทีของประเทศไทยมากมาย เป็นแหล่งเหล่าคนในวงการไอที เอาไว้ใช้ปรึกษา พร้อมทั้งแลกเปลี่ยนข้อมูลซึ่งกันและกัน ผมจึงได้รวบรวมกลุ่มไอทีพร้อมทั้งไว้ที่นี้นะจุดเดียว ใครมีแนะนำอะไรก็ทักมาได้ที่[แฟนเพจ](https://www.facebook.com/programmerthai/) หรือจะ submit ผ่าน github ก็ยินดี ผมหวังว่ามันจะเป็นประโยชน์ต่อสังคมไทยครับ (จะพยายามให้เนื้อหาอัพเดตเวลาเกิดกลุ่มต่างๆ ขึ้นมา)
- 1. ขอให้มีสมาชิกสัก 3,000 คนขึ้นไปนะครับ
+ 1. ขอให้มีสมาชิกสัก 2,000 คนขึ้นไปนะครับ
  2. สำหรับคนไทยเท่านั้นนะครับ
 
 
@@ -40,6 +40,7 @@
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
 * [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455)
 * [Thailand Deep Learning](https://www.facebook.com/groups/988867541235062/)
+* [Robotics and AI Thailand Fanclub กลุ่มอัพเดทข่าวสารหุ่นยนต์และปัญญาประดิษฐ์](https://www.facebook.com/groups/214171812372378/)
 
 # สายงาน System Admin, Network, IT suport
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
