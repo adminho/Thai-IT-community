@@ -8,11 +8,10 @@
 # สารบัญ
  
 * :fire: [สายงานโปรแกรมเมอร์](#เสายงานโปรแกรมเมอร์)
-* :fire: [วิศวกรรมซอฟต์แวร์ (Software engineer)](#เรียนออนไลน์ของภาครัฐ)
-* :fire: [วิศวกรรมซอฟต์แวร์ (Software engineer)](#เรียนออนไลน์ของภาครัฐ)
-* :fire: [Security](#เรียนออนไลน์ของภาครัฐ)
-* :fire: [NetWork](#เรียนออนไลน์ของภาครัฐ)
 * :fire: [Embedded System, IoT](#เรียนออนไลน์ของภาครัฐ)
+* :fire: [สายงาน AI, Machine learning, Deep learning, Data Science](##สายงาน-ai-machine-learning-deep-learning-data-science)
+* :fire: [สายงาน System Admin, Network, IT suport](#สายงาน-system-admin-network-it-suport)
+* :fire: [สายงาน Security](#สายงาน-security)
 * :fire: [หางาน, Freelance](#หางาน)
 * :fire: [อื่นๆ](#เอื่นๆ)
 
@@ -31,6 +30,11 @@
 * [Thailand Kotlin Developer - กลุ่มพันฒนา Kotlin](https://www.facebook.com/groups/872547279487598/)
 * [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
 
+# สายงาน embedded System, IoT
+* [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
+* [Arduino Thailand](https://www.facebook.com/groups/arduino.thai/)
+* [Thailand IoT Consortium](https://www.facebook.com/ThailandIoTConsortium/)
+
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
 * [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455
@@ -38,6 +42,8 @@
 
 # สายงาน System Admin, Network, IT suport
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
+* [Ubuntuclub group](https://www.facebook.com/groups/ubuntuclub/)
+* [Docker in Thai](https://www.facebook.com/groups/858633044176588/)
 
 # สายงาน Security
 * [2600 Thailand](https://www.facebook.com/groups/2600Thailand)
