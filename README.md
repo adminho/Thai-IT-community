@@ -22,7 +22,7 @@
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
 * [ไทย PHP - กลุ่มนักพัฒนา PHP ของคนไทย](https://www.facebook.com/groups/134855003271201/)
-* [ตัวจบ PHP MySQL-สอบถาม ปรึกษา เกี่ยวกับ ตัวจบ โปรเจ็คจบ ที่เป็น PHP และ MySQL]([https://www.facebook.com/groups/149920381868037/)
+* [ตัวจบ PHP MySQL-สอบถาม ปรึกษา เกี่ยวกับ ตัวจบ โปรเจ็คจบ ที่เป็น PHP และ MySQL](https://www.facebook.com/groups/149920381868037/)
 * [Thailand PHP User Group](https://www.facebook.com/groups/thpug/)
 * [Thai Game Developers Corner (TGDC) - สำหรับผู้สนใจพัฒนาเกม หรือนักพัฒนาเกมมืออาชีพ](https://www.facebook.com/groups/thaigamepad/)
 * [iOS Developer Thailand - กลุ่มพัฒนา iOS ในประเทศไทย](https://www.facebook.com/groups/iosthailand/)
