@@ -39,7 +39,6 @@
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
 * [Arduino Thailand](https://www.facebook.com/groups/arduino.thai/)
-* [Arduino Thai Project](https://www.facebook.com/ArduinoThaiProject/)
 * [Thailand IoT Consortium](https://www.facebook.com/ThailandIoTConsortium/)
 * [กลุ่ม anto.io ไทย](https://www.facebook.com/groups/anto.io/)
 * [กลุ่มคนสนใจ ไมโครคอนโทรลเลอร์แห่งประเทศไทย](https://www.facebook.com/groups/448555958824892/)
