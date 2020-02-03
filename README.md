@@ -35,6 +35,7 @@
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
 * [Arduino Thailand](https://www.facebook.com/groups/arduino.thai/)
 * [Thailand IoT Consortium](https://www.facebook.com/ThailandIoTConsortium/)
+* [กลุ่ม anto.io ไทย](https://www.facebook.com/groups/anto.io/)
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
