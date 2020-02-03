@@ -22,13 +22,18 @@
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
 * [ไทย PHP - กลุ่มนักพัฒนา PHP ของคนไทย](https://www.facebook.com/groups/134855003271201/)
+* [ตัวจบ PHP MySQL]([https://www.facebook.com/groups/149920381868037/)
+* [Thailand PHP User Group](https://www.facebook.com/groups/thpug/)
 * [Thai Game Developers Corner (TGDC) - สำหรับผู้สนใจพัฒนาเกม หรือนักพัฒนาเกมมืออาชีพ](https://www.facebook.com/groups/thaigamepad/)
 * [iOS Developer Thailand - กลุ่มพัฒนา iOS ในประเทศไทย](https://www.facebook.com/groups/iosthailand/)
 * [Python-Thailand - กลุ่มพัฒนา Python ที่ใหญ่ที่สุด](https://www.facebook.com/groups/admin.py.dev/)
 * [Node.js Thailand - กลุ่มพันษ Node.js](https://www.facebook.com/groups/node.th/)
 * [THJUG - กลุ่มพัฒนา Java](https://www.facebook.com/groups/thjug/)
+* [Javathailand.com](https://www.facebook.com/groups/javathailand/?ref=group_browse_new)
 * [Thailand Kotlin Developer - กลุ่มพันฒนา Kotlin](https://www.facebook.com/groups/872547279487598/)
 * [GreatFriends.Biz - .NET Developer Community in Thailand](https://www.facebook.com/groups/greatfriends.biz/about/)
+* [.NET Framework Source Code Study Group in Thailand](https://www.facebook.com/groups/studygroupof.net/)
+* [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
 * [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
 
 # สายงาน embedded System, IoT
@@ -47,6 +52,9 @@
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
 * [Ubuntuclub group](https://www.facebook.com/groups/ubuntuclub/)
 * [Docker in Thai](https://www.facebook.com/groups/858633044176588/)
+* [DevOps Thailand](https://www.facebook.com/groups/720597038025424/)
+* [CCNA Hunter Group](https://www.facebook.com/groups/CCNAHunterGroup/)
+* [OpenDataInTh](https://www.facebook.com/groups/OpenDataInTh/)
 
 # สายงาน Security
 * [2600 Thailand](https://www.facebook.com/groups/2600Thailand)
@@ -60,3 +68,4 @@
 
 # อื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
+* [Thai Power BI User Group](https://www.facebook.com/groups/ThaiPowerBIUserGroup
