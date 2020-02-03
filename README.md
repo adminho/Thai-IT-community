@@ -47,7 +47,8 @@
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
-* [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455)
+* [Thailand's Machine Learning Research](https://www.facebook.com/groups/164204783609455/)
+* [Thai Natural Language Processing](https://www.facebook.com/groups/thainlp/)
 * [Thailand Deep Learning](https://www.facebook.com/groups/988867541235062/)
 * [Robotics and AI Thailand Fanclub กลุ่มอัพเดทข่าวสารหุ่นยนต์และปัญญาประดิษฐ์](https://www.facebook.com/groups/214171812372378/)
 
