@@ -35,6 +35,8 @@
 * [.NET Framework Source Code Study Group in Thailand](https://www.facebook.com/groups/studygroupof.net/)
 * [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
 * [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
+* [Golang Thailand](https://www.facebook.com/groups/584867114995854
+* [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
 
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
