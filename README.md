@@ -37,7 +37,7 @@
 * [GreatFriends.Biz - .NET Developer Community in Thailand](https://www.facebook.com/groups/greatfriends.biz/about/)
 * [.NET Framework Source Code Study Group in Thailand](https://www.facebook.com/groups/studygroupof.net/)
 * [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
-* [Golang Thailand](https://www.facebook.com/groups/584867114995854
+* [Golang Thailand](https://www.facebook.com/groups/584867114995854)
 * [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
 
 # สายงาน embedded System, IoT
