@@ -74,4 +74,4 @@
 
 # อื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
-* [Thai Power BI User Group](https://www.facebook.com/groups/ThaiPowerBIUserGroup
+* [Thai Power BI User Group](https://www.facebook.com/groups/ThaiPowerBIUserGroup)
