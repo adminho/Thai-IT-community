@@ -18,6 +18,8 @@
 # สายงานโปรแกรมเมอร์
 * [สมาคมโปรแกรมเมอร์ไทย - กลุ่มรวมวงการโปรแกรมเมอร์ใหญ่ที่สุดในไทย](https://www.facebook.com/groups/ThaiPGAssociateSociety/)
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
+* [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
+* [กลุ่มเรียน : มือใหม่หัดเขียนโปรแกรม](https://www.facebook.com/groups/116054355228064/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
@@ -35,7 +37,6 @@
 * [GreatFriends.Biz - .NET Developer Community in Thailand](https://www.facebook.com/groups/greatfriends.biz/about/)
 * [.NET Framework Source Code Study Group in Thailand](https://www.facebook.com/groups/studygroupof.net/)
 * [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
-* [กลุ่มนักเขียนโปรแกรม](https://www.facebook.com/groups/131258331007039/)
 * [Golang Thailand](https://www.facebook.com/groups/584867114995854
 * [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
 
