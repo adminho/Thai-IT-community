@@ -46,6 +46,7 @@
 * [Thailand IoT Consortium](https://www.facebook.com/ThailandIoTConsortium/)
 * [กลุ่ม anto.io ไทย](https://www.facebook.com/groups/anto.io/)
 * [กลุ่มคนสนใจ ไมโครคอนโทรลเลอร์แห่งประเทศไทย](https://www.facebook.com/groups/448555958824892/)
+* [MicroPython:Thailand](https://www.facebook.com/groups/109676182999340/)
 
 # สายงาน AI, Machine learning, Deep learning, Data Science
 * [Thailand Machine Learning & Artificial Intelligence](https://www.facebook.com/groups/941490879222335)
@@ -72,6 +73,7 @@
 * [Jobs for Thai Programmers](https://www.facebook.com/groups/647718825333067/)
 * [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ](https://www.facebook.com/groups/designil.freelance/)
 
-# อื่นๆ
+# เครื่องมืออื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
 * [Thai Power BI User Group](https://www.facebook.com/groups/ThaiPowerBIUserGroup)
+* [Tableau User Group Thailand - กล่มผู้ใช้ Tableau ประเทศไทย](https://www.facebook.com/groups/TableauUserGroupThailand/)
