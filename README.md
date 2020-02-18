@@ -31,6 +31,7 @@
 * [Python-Thailand - กลุ่มพัฒนา Python ที่ใหญ่ที่สุด](https://www.facebook.com/groups/admin.py.dev/)
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
 * [Node.js Thailand - กลุ่มพันษ Node.js](https://www.facebook.com/groups/node.th/)
+* [Angular Developers Thailand](https://www.facebook.com/groups/angularjs.th/)
 * [THJUG - กลุ่มพัฒนา Java](https://www.facebook.com/groups/thjug/)
 * [Javathailand.com](https://www.facebook.com/groups/javathailand/?ref=group_browse_new)
 * [Thailand Kotlin Developer - กลุ่มพันฒนา Kotlin](https://www.facebook.com/groups/872547279487598/)
