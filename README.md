@@ -41,6 +41,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
 * [Golang Thailand](https://www.facebook.com/groups/584867114995854)
 * [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
+* [LINE Developers Group Thailand](https://www.facebook.com/groups/LINEDEVTH/)
 
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
