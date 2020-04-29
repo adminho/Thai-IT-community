@@ -42,6 +42,8 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
 * [LINE Developers Group Thailand](https://www.facebook.com/groups/LINEDEVTH/)
 * [Flutter Framework user in Thailand](https://www.facebook.com/groups/1330912973657674/)
+* [Vue.js Developer Thailand](https://www.facebook.com/groups/209687502909122/)
+* [Docker in Thai](https://www.facebook.com/groups/858633044176588/)
 
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
