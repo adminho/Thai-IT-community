@@ -44,6 +44,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Flutter Framework user in Thailand](https://www.facebook.com/groups/1330912973657674/)
 * [Vue.js Developer Thailand](https://www.facebook.com/groups/209687502909122/)
 * [Docker in Thai](https://www.facebook.com/groups/858633044176588/)
+* [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
