@@ -25,6 +25,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [ชมรม คนทำเว็บ](https://www.facebook.com/groups/122558751110047/)
 * [Python-Thailand - กลุ่มพัฒนา Python ที่ใหญ่ที่สุด](https://www.facebook.com/groups/admin.py.dev/)
 * [เรียน Python ฟรี! ฉบับคนไม่เคยเขียนโปรแกรมมาก่อน](https://www.facebook.com/groups/2355598151437216/)
+* [Python GUI by Uncle Engineer](https://www.facebook.com/groups/1721550277936854/)
 * [ไทย PHP - กลุ่มนักพัฒนา PHP ของคนไทย](https://www.facebook.com/groups/134855003271201/)
 * [ตัวจบ PHP MySQL-สอบถาม ปรึกษา เกี่ยวกับ ตัวจบ โปรเจ็คจบ ที่เป็น PHP และ MySQL](https://www.facebook.com/groups/149920381868037/)
 * [Thailand PHP User Group](https://www.facebook.com/groups/thpug/)
@@ -47,6 +48,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 * [Thailand Colab](https://www.facebook.com/groups/colab.thailand/)
 
+
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
 * [Arduino Thailand](https://www.facebook.com/groups/arduino.thai/)
@@ -61,6 +63,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Thai Natural Language Processing](https://www.facebook.com/groups/thainlp/)
 * [Thailand Deep Learning](https://www.facebook.com/groups/988867541235062/)
 * [Robotics and AI Thailand Fanclub กลุ่มอัพเดทข่าวสารหุ่นยนต์และปัญญาประดิษฐ์](https://www.facebook.com/groups/214171812372378/)
+* [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/)
 
 # สายงาน System Admin, Network, IT suport
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
