@@ -83,6 +83,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Jobs for Thai Programmers](https://www.facebook.com/groups/647718825333067/)
 * [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ](https://www.facebook.com/groups/designil.freelance/)
 * [แชร์ตำแหน่งงาน IT Programmer](https://www.facebook.com/groups/1468094183497245/)
+* [IT freelance thailand - หางาน IT](https://www.facebook.com/groups/216473652290797/)
 
 # เครื่องมืออื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
