@@ -48,6 +48,8 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 * [Thailand Colab](https://www.facebook.com/groups/colab.thailand/)
 
+# สายงาน UX/UI
+* [UX Thailand](https://www.facebook.com/groups/ux.in.th/)
 
 # สายงาน embedded System, IoT
 * [Raspberry Pi Thailand](https://www.facebook.com/groups/rpi.th/)
