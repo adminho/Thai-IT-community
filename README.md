@@ -66,6 +66,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Thailand Deep Learning](https://www.facebook.com/groups/988867541235062/)
 * [Robotics and AI Thailand Fanclub กลุ่มอัพเดทข่าวสารหุ่นยนต์และปัญญาประดิษฐ์](https://www.facebook.com/groups/214171812372378/)
 * [Data Science BKK](https://www.facebook.com/groups/dsbkkgroup/)
+* [Data Science Thailand](https://www.facebook.com/groups/1514415818797944/)
 
 # สายงาน System Admin, Network, IT suport
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
