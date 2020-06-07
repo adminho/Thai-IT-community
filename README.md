@@ -38,6 +38,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Thailand Kotlin Developer - กลุ่มพันฒนา Kotlin](https://www.facebook.com/groups/872547279487598/)
 * [GreatFriends.Biz - .NET Developer Community in Thailand](https://www.facebook.com/groups/greatfriends.biz/about/)
 * [.NET Framework Source Code Study Group in Thailand](https://www.facebook.com/groups/studygroupof.net/)
+* [.NET Thailand](https://www.facebook.com/groups/dotnetthailand/)
 * [iOS Developer Thailand](https://www.facebook.com/groups/iosthailand/)
 * [Golang Thailand](https://www.facebook.com/groups/584867114995854)
 * [Thai Functional Programming Enthusiasts](https://www.facebook.com/groups/310209089128699/)
