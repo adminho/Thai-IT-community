@@ -48,6 +48,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Docker in Thai](https://www.facebook.com/groups/858633044176588/)
 * [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 * [Thailand Colab](https://www.facebook.com/groups/colab.thailand/)
+* [National Software Contest - NSC Thailand](https://www.facebook.com/groups/NSCThailand/)
 
 # สายงาน UX/UI
 * [UX Thailand](https://www.facebook.com/groups/ux.in.th/)
