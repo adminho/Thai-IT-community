@@ -91,6 +91,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [แชร์ตำแหน่งงาน IT Programmer](https://www.facebook.com/groups/1468094183497245/)
 * [IT freelance thailand - หางาน IT](https://www.facebook.com/groups/216473652290797/)
 * [กลุ่มรวม Programmer Remote working / freelance หางาน เอกชน รัฐบาล](https://www.facebook.com/groups/150799321613529/)
+* [หางานง่ายๆ ดีๆ IT Consultant Outsource Freelance รายได้ดีได้ที่นี้ที่เดียว](https://www.facebook.com/groups/374319986069048/)
 
 # เครื่องมืออื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
