@@ -94,7 +94,8 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [กลุ่มรวม Programmer Remote working / freelance หางาน เอกชน รัฐบาล](https://www.facebook.com/groups/150799321613529/)
 * [หางานง่ายๆ ดีๆ IT Consultant Outsource Freelance รายได้ดีได้ที่นี้ที่เดียว](https://www.facebook.com/groups/374319986069048/)
 
-# เครื่องมืออื่นๆ
+# อื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
 * [Thai Power BI User Group](https://www.facebook.com/groups/ThaiPowerBIUserGroup)
 * [Tableau User Group Thailand - กล่มผู้ใช้ Tableau ประเทศไทย](https://www.facebook.com/groups/TableauUserGroupThailand/)
+* [กลุ่ม NotebookSPEC จัดสเปกพีซีประกอบคอมอันดับ 1 ตอบปัญหา แนะนำการเลือกซื้อ] (https://www.facebook.com/groups/345996372220149/)
