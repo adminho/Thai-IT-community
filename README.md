@@ -89,6 +89,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [หางาน สมัครงาน IT ไอที คอมพิวเตอร์](https://www.facebook.com/groups/238251843552486/)
 * [IT Jobs in Thailand](https://www.facebook.com/groups/ITOutsourceThailand/)
 * [Jobs for Thai Programmers](https://www.facebook.com/groups/647718825333067/)
+* [โปรแกรมเมอร์ หา งาน หา โปรแกรมเมอร์](https://www.facebook.com/groups/364101157371969)
 * [Designil Freelance Board งานฟรีแลนซ์สำหรับคนทำเว็บ](https://www.facebook.com/groups/designil.freelance/)
 * [แชร์ตำแหน่งงาน IT Programmer](https://www.facebook.com/groups/1468094183497245/)
 * [IT freelance thailand - หางาน IT](https://www.facebook.com/groups/216473652290797/)
