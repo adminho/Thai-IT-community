@@ -98,6 +98,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Thai Game Industry Career](https://www.facebook.com/groups/1222262427795385)
 * [โปรแกรมเมอร์ หา งาน หา โปรแกรมเมอร์](https://www.facebook.com/groups/364101157371969/) 
 * [Job Search for Thai programmers](https://www.facebook.com/groups/job.search.thailand/)
+* [IT & Software Jobs Thailand - หางานไอที](https://www.facebook.com/groups/776856306124434/)
 
 # อื่นๆ
 * [WordPress Bangkok - ท่านที่สนใจ WordPress หรือใช้ WP อยู่แล้ว](https://www.facebook.com/groups/wpalliance/)
