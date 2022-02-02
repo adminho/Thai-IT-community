@@ -50,6 +50,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 * [Thailand Colab](https://www.facebook.com/groups/colab.thailand/)
 * [National Software Contest - NSC Thailand](https://www.facebook.com/groups/NSCThailand/)
+* [Spark Tech Community](https://www.facebook.com/groups/SparkTechTH)
 
 # สายงาน UX/UI
 * [UX Thailand](https://www.facebook.com/groups/ux.in.th/)
@@ -106,3 +107,4 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Tableau User Group Thailand - กล่มผู้ใช้ Tableau ประเทศไทย](https://www.facebook.com/groups/TableauUserGroupThailand/)
 * [กลุ่ม NotebookSPEC จัดสเปกพีซีประกอบคอมอันดับ 1 ตอบปัญหา แนะนำการเลือกซื้อ](https://www.facebook.com/groups/345996372220149/)
 * [ปรึกษาปัญหาคอมพิวเตอร์ฟรี](https://www.facebook.com/groups/1609746639312761/)
+* [Azure Community Thailand](https://www.facebook.com/groups/AzureCommunityThailand)
