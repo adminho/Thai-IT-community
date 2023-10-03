@@ -50,6 +50,7 @@ __ลิสต์รายชื่อกลุ่ม Facebook ของวง�
 * [Visual Studio and GitHub Community Thailand](www.facebook.com/groups/VisualStudioGitHubCommunityThailand/)
 * [Thailand Colab](https://www.facebook.com/groups/colab.thailand/)
 * [National Software Contest - NSC Thailand](https://www.facebook.com/groups/NSCThailand/)
+* [Thai Data People - Data Scientists x Data Analysts x Data Engineers](https://www.facebook.com/groups/148432622530648)
 
 # สายงาน UX/UI
 * [UX Thailand](https://www.facebook.com/groups/ux.in.th/)
